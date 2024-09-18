@@ -3,9 +3,9 @@
 ```python
 print("Hello World! 🌍")
 
-💻 Desarrollador Full Stack Junior          ![Coding Animation](https://media.giphy.com/media/C5euAYImtRqZe1z5Jo/giphy.gif?ep=v1_gifs_related)
+💻 Desarrollador Full Stack Junior           
 🛠️ Habilidades Técnicas
-Frontend
+Frontend    
 JavaScript
 React.js
 Bootstrap
