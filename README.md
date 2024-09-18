@@ -24,6 +24,10 @@ MongoDB
 🤝 Colaboración en equipo
 🚀 Entusiasmo por aprender
 
+📱 Redes Sociales
+LinkedIn
+🔍 #Developer #FullStack #WebDevelopment #SoftwareDeveloper #Coding
+
 🌟 Sobre Mí
 Soy un desarrollador comprometido y responsable, siempre buscando nuevas oportunidades para crecer. Mi capacidad de adaptación y comunicación me permite conectar fácilmente con otros y enfrentar desafíos con una mentalidad abierta y positiva.
 🎯 Objetivos
