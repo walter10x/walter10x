@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy Walter Rivero
 
-<!--
-**walter10x/walter10x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+print("Hello World! 🌍")
 
-Here are some ideas to get you started:
+💻 Desarrollador Full Stack Junior
+🛠️ Habilidades Técnicas
+Frontend
+JavaScript
+React.js
+Bootstrap
+Tailwind CSS
+Backend
+Python
+Flask
+SQLAlchemy
+Bases de Datos
+PostgreSQL
+MongoDB
+🤝 Habilidades Personales
+💬 Comunicación efectiva
+🧠 Empatía
+🔄 Adaptabilidad rápida
+🤝 Colaboración en equipo
+🚀 Entusiasmo por aprender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Sobre Mí
+Soy un desarrollador comprometido y responsable, siempre buscando nuevas oportunidades para crecer. Mi capacidad de adaptación y comunicación me permite conectar fácilmente con otros y enfrentar desafíos con una mentalidad abierta y positiva.
+🎯 Objetivos
+Aunque estoy iniciando mi carrera, estoy emocionado por contribuir significativamente en proyectos innovadores y seguir creciendo profesionalmente en el mundo del desarrollo Full Stack. 🔍 #Developer #FullStack #WebDevelopment #SoftwareDeveloper #Coding
