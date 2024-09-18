@@ -25,7 +25,7 @@ MongoDB
 🚀 Entusiasmo por aprender
 
 📱 Redes Sociales
-LinkedIn
+LinkedIn:linkedin.com/in/wrivero1403
 🔍 #Developer #FullStack #WebDevelopment #SoftwareDeveloper #Coding
 
 🌟 Sobre Mí
